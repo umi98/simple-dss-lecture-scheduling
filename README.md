@@ -1,6 +1,6 @@
 # Simple Decision Support System Lecture Scheduling
 
-Automatically set lecture time based on lecture duration, difficulty level, and choosen room. DSS script can be found in `admin/dss.php`. This program was build in XAMPP environment.
+Automatically set lecture time based on lecture duration, difficulty level, and choosen room. This project is using Weighted Scoring Model. DSS script can be found in `admin/dss.php`. This program was build in XAMPP environment.
 
 ### How to Open the App
 1. Download the repository.
